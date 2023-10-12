@@ -1,0 +1,10 @@
+dataset: simula
+Niter: 150
+channel: 26
+background: 0
+cropsize: 512
+NA: 0.95
+wavelength: 1200
+mag_pix: 89.25
+scale: 2
+pixelvaluescale: 1000
